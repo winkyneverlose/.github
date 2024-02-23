@@ -2,7 +2,7 @@
 
 可喵大人の控制 的官方开发团队，服务器分布，部署。
 
-<img src="../images/可喵大人の控制-服务器分布.png">
+<img src="https://raw.githubusercontent.com/winkyneverlose/.github/main/images/%E5%8F%AF%E5%96%B5%E5%A4%A7%E4%BA%BA%E3%81%AE%E6%8E%A7%E5%88%B6-%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%88%86%E5%B8%83.png">
 
 ## 服务器分布
 
