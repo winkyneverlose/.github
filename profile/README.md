@@ -6,19 +6,19 @@
 
 ## 服务器分布
 
-### [静态资源服务器](./static-resources)
+### [静态资源服务器](../static-resources)
 
 服务器的静态资源、CSS 结构、Javascript 文件、图片、字体等使用 CDN 托管。
 
-### [前端服务器](./frontend-server)
+### [前端服务器](../frontend-server)
 
 服务器的前端使用 Express.js 实现路由和前端页面的架构。
 
-### [后端服务器](./backend-server)
+### [后端服务器](../backend-server)
 
 服务器的后端处理服务器的业务。安全处理所有请求，使用 Node.js。
 
-### [数据库服务器](./database-server)
+### [数据库服务器](../database-server)
 
 纯数据服务器，与后端服务器进行加密连接。它不负责处理业务逻辑，只处理服务器数据。
 
